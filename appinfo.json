@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "rmingwang@gmail.com",
+    "longName": "SIMPLE",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "SIMPLE",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "40fe2363-84de-44eb-b748-55957708acc4",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
